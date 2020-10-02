@@ -1,0 +1,6 @@
+C:\Users\rcarl\source\repos\NodejsPrestashop\NodejsPrestashop\obj\Debug\NodejsPrestashop.njsprojAssemblyReference.cache
+C:\Users\rcarl\source\repos\NodejsPrestashop\NodejsPrestashop\obj\Debug\NodejsPrestashop.njsproj.CoreCompileInputs.cache
+C:\Users\rcarl\source\repos\NodejsPrestashop\NodejsPrestashop\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\rcarl\source\repos\NodejsPrestashop\EjercicioPrestashop\NodejsPrestashop\obj\Debug\NodejsPrestashop.njsprojAssemblyReference.cache
+C:\Users\rcarl\source\repos\NodejsPrestashop\EjercicioPrestashop\NodejsPrestashop\obj\Debug\NodejsPrestashop.njsproj.CoreCompileInputs.cache
+C:\Users\rcarl\source\repos\NodejsPrestashop\EjercicioPrestashop\NodejsPrestashop\bin\Microsoft.NodejsTools.WebRole.dll

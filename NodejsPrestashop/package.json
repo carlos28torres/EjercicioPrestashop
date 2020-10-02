@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-prestashop",
+  "version": "0.0.0",
+  "description": "NodejsPrestashop",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "~4.17.1",
+    "path": "~0.12.7",
+    "react": "~16.13.1",
+    "react-dom": "~16.13.1",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0",
+    "ts-loader": "~7.0.1",
+    "typescript": "~3.8.3",
+    "webpack": "~4.42.1",
+    "webpack-cli": "~3.3.11",
+    "xml2js": "^0.4.23"
+  },
+  "scripts": {
+    "build": "webpack-cli app.tsx --config webpack-config.js"
+  }
+}
